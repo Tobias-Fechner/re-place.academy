@@ -1,0 +1,1 @@
+Cardano meets regeneration: on-the-ground local organising for community resilience, making p2p learning flows visible to institutional investors on a zk impact funding platform. 

@@ -1,0 +1,7 @@
+This question is addressed in two parts: organisational capabilities, and technical capabilities.
+
+**Organisational:** Propagating a multi-stakeholder innovation methodology across 11 new learning hubs is an ambitious undertaking. Fortunately, we've garnered the interest of some very capable partners. Regenesis Institute, based in Santa Fe (the home of complexity science), have been teaching regenerative design and development for over 15 years. The team formed at the meeting of permaculture design experts and organisational change experts, each half with 25 years of experience. They've since grown a global alumni network of over 1500 practitioners, applying frameworks to think through complex systems. In June, Wada will be joining Astralship to develop the beginning of the MVP, demonstrating the voyaging methodology as an incubation and build process. In this way, we aim to gain further support (milestone 2) from Regenesis and others to propagate the methodology across the Wada network (milestones 4, 5 and 6). This means we'll be validating if our approach is feasible within the first month, at the scale of a single hub, a single event, before moving to the next scale of complexity: multiple hubs.
+
+  
+
+**Technical:** We're aiming to develop the means of making visible p2p learning flows at the bioregional scale that honours how a place is unique, and can show communities becoming more capable at resilience. For this, we're incorporating existing prototypes. The success of this project hinges upon how well
