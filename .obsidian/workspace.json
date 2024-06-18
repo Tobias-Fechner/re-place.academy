@@ -11,8 +11,12 @@
             "id": "4abd3fc0a8f24906",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Glossary of Terms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glossary of Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Glossary of Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Glossary of Terms.md"
+              }
             }
           }
         ]
@@ -139,8 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f55645c25d18edf6",
+  "active": "4abd3fc0a8f24906",
   "lastOpenFiles": [
+    "Digital Participation Plan for Voyage.md",
+    "Glossary of Terms.md",
+    "Daily Drops.md",
+    "Developmental Pathway/12. Autocracy.md",
+    "Developmental Pathway/11. Domination.md",
+    "Developmental Pathway/10. Creativity.md",
+    "Developmental Pathway/9. Pattern.md",
+    "Developmental Pathway/8.5. Will (3rd line).md",
+    "Developmental Pathway/8. Individuality.md",
+    "Developmental Pathway/7. Structure.md",
+    "Developmental Pathway/6. Repetition.md",
+    "Developmental Pathway/5. Potentiality.md",
+    "Developmental Pathway/4.5. Being (2nd Line).md",
+    "Developmental Pathway/4. Subsistence.md",
+    "Developmental Pathway/3. Relatedness.md",
+    "Developmental Pathway/2. Polarity.md",
+    "Developmental Pathway/0.5. Function (1st Line).md",
+    "Developmental Pathway/1. Wholeness.md",
+    "Developmental Pathway/0. Intro.md",
+    "Developmental Pathway",
     "vault.zip",
     "re-place.academy",
     "Welcome.md",
@@ -151,27 +179,9 @@
     "Metabolic Earth/ArcGis.md",
     "Metabolic Earth/Apollo Client.md",
     "Metabolic Earth",
-    "Glossary of Terms.md",
-    "Digital Participation Plan for Voyage.md",
-    "Daily Drops.md",
-    "Cardano Catalyst Proposal/Wada Cardano Proposal.md",
-    "Cardano Catalyst Proposal/Value for money.md",
-    "Cardano Catalyst Proposal/Solution summary (200-character limit).md",
-    "Cardano Catalyst Proposal/Proposed solution.md",
-    "Cardano Catalyst Proposal/Project team and roles.md",
-    "Cardano Catalyst Proposal/Key project milestones.md",
-    "Cardano Catalyst Proposal/Problem statement (200-character limit).md",
-    "Cardano Catalyst Proposal/Impact definition and measurement.md",
-    "Cardano Catalyst Proposal/Capability & feasibility.md",
     "Cardano Catalyst Proposal",
     "Assets/replace.png",
     "Assets",
-    "README.md",
-    "re-place.academy/Welcome.md",
-    "re-place.academy/Voyager Welcome Pack.md",
-    "re-place.academy/README.md",
-    "re-place.academy/Metabolic Earth/On-boarding to Metabolic.Earth.md",
-    "re-place.academy/Metabolic Earth/High-level overview.md",
     "re-place.academy/Metabolic Earth",
     "re-place.academy/Cardano Catalyst Proposal",
     "re-place.academy/Assets/replace.png",

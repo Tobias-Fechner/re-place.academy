@@ -1,1 +1,0 @@
-A custom module fx1 has been written which defines a reducer function. This reducer function is used to 
