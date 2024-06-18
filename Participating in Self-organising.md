@@ -1,0 +1,1 @@
+As long as there has been changing environmental conditions, there have been communities adapting

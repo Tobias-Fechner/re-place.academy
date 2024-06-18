@@ -11,15 +11,26 @@
             "id": "4abd3fc0a8f24906",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/replace.png"
+              }
+            }
+          },
+          {
+            "id": "deb23d11dd0290d8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary of Terms.md",
+                "file": "Participating in Self-organising.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary of Terms.md",
+                "file": "Participating in Self-organising.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary of Terms.md",
+                "file": "Participating in Self-organising.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary of Terms.md"
+                "file": "Participating in Self-organising.md"
               }
             }
           }
@@ -147,10 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4abd3fc0a8f24906",
+  "active": "deb23d11dd0290d8",
   "lastOpenFiles": [
-    "Digital Participation Plan for Voyage.md",
+    "Assets/replace.png",
+    "Participating in Self-organising.md",
+    "Welcome.md",
+    "Voyager Welcome Pack.md",
     "Glossary of Terms.md",
+    "Digital Participation Plan for Voyage.md",
     "Daily Drops.md",
     "Developmental Pathway/12. Autocracy.md",
     "Developmental Pathway/11. Domination.md",
@@ -171,16 +186,11 @@
     "Developmental Pathway",
     "vault.zip",
     "re-place.academy",
-    "Welcome.md",
-    "Voyager Welcome Pack.md",
     "Metabolic Earth/On-boarding to Metabolic.Earth.md",
     "Metabolic Earth/High-level overview.md",
     "Metabolic Earth/Geolocations and state management.md",
-    "Metabolic Earth/ArcGis.md",
-    "Metabolic Earth/Apollo Client.md",
     "Metabolic Earth",
     "Cardano Catalyst Proposal",
-    "Assets/replace.png",
     "Assets",
     "re-place.academy/Metabolic Earth",
     "re-place.academy/Cardano Catalyst Proposal",
