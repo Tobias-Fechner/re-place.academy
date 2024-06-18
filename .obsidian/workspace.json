@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "8b6153854aa7096a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c030e3db60f3bfab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4abd3fc0a8f24906",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bad222e75df50e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a653eca4429e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f55645c25d18edf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d271d8ee64dc0d72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fbfb3416aba536d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcab72242ccf90aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "eabffa885412bd94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ddd5a282f52a0e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e56a36b96aba58d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8b6a92e49126cd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1af940ad09f9ccc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f55645c25d18edf6",
+  "lastOpenFiles": [
+    "vault.zip",
+    "re-place.academy",
+    "Welcome.md",
+    "Voyager Welcome Pack.md",
+    "Metabolic Earth/On-boarding to Metabolic.Earth.md",
+    "Metabolic Earth/High-level overview.md",
+    "Metabolic Earth/Geolocations and state management.md",
+    "Metabolic Earth/ArcGis.md",
+    "Metabolic Earth/Apollo Client.md",
+    "Metabolic Earth",
+    "Glossary of Terms.md",
+    "Digital Participation Plan for Voyage.md",
+    "Daily Drops.md",
+    "Cardano Catalyst Proposal/Wada Cardano Proposal.md",
+    "Cardano Catalyst Proposal/Value for money.md",
+    "Cardano Catalyst Proposal/Solution summary (200-character limit).md",
+    "Cardano Catalyst Proposal/Proposed solution.md",
+    "Cardano Catalyst Proposal/Project team and roles.md",
+    "Cardano Catalyst Proposal/Key project milestones.md",
+    "Cardano Catalyst Proposal/Problem statement (200-character limit).md",
+    "Cardano Catalyst Proposal/Impact definition and measurement.md",
+    "Cardano Catalyst Proposal/Capability & feasibility.md",
+    "Cardano Catalyst Proposal",
+    "Assets/replace.png",
+    "Assets",
+    "README.md",
+    "re-place.academy/Welcome.md",
+    "re-place.academy/Voyager Welcome Pack.md",
+    "re-place.academy/README.md",
+    "re-place.academy/Metabolic Earth/On-boarding to Metabolic.Earth.md",
+    "re-place.academy/Metabolic Earth/High-level overview.md",
+    "re-place.academy/Metabolic Earth",
+    "re-place.academy/Cardano Catalyst Proposal",
+    "re-place.academy/Assets/replace.png",
+    "re-place.academy/Assets"
+  ]
+}
