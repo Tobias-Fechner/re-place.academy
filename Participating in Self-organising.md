@@ -1,1 +1,1 @@
-As long as there has been changing environmental conditions, there have been communities adapting
+As long as there has been changing environmental conditions, there have been communities evolving their ways of inhabiting place. With increasing complexity comes the need for increasing ability to respond intelligently. This is a process of developing  patterns, structures and processes in right relationship with the systems that give communities their sustenance. 
