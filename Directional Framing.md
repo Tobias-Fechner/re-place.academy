@@ -2,4 +2,4 @@ Communities are seeking ways to evolve how they inhabit their place. With increa
 
 This work shows up as networks of solidarity, community-led climate-action programmes, as novel approaches to governance, practices to remember into a larger body, and many, many more.
 
-Many initiatives make promising beginnings 
+Many initiatives make promising beginnings and yet remain invisible at large. What's needed is a 
