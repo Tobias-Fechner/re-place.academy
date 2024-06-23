@@ -6,6 +6,8 @@ How: LifeWeb is built around a continuous pathway, that guides participants as t
 
 Process: The complete LifeWeb journey spans over 12 steps, divided into 3 segments (self, field, system) as follows:
 
+![[framework-overview.png]]
+
 A. Co-here-ing wholeness: Finding your here together
 In the first segment of the LifeWeb pathway (steps 1-4), Persons move from fragmented experience of reality* towards falling into place within the nested wholes. 
 *It is because we do onto the world as fragments, that we are automatically destructive

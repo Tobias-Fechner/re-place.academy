@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Intro.md",
+                "file": "1 - Conceptuality/Framework Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Intro.md",
+                "file": "1 - Conceptuality/Framework Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Intro.md",
+                "file": "1 - Conceptuality/Framework Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Intro.md"
+                "file": "1 - Conceptuality/Framework Intro.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f76589d87df52a",
+  "active": "f55645c25d18edf6",
   "lastOpenFiles": [
+    "1 - Conceptuality/Directional Framing.md",
+    "1 - Conceptuality/Framework Intro.md",
+    "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+    "Assets/framework-overview.png",
     "Assets/framework-overview.svg",
     "1 - Conceptuality/Developmental Pathway/12. Autocracy.md",
-    "1 - Conceptuality/Developmental Pathway/0.5. Function (1st Line).md",
-    "1 - Conceptuality/Developmental Pathway/0. Intro.md",
     "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
     "3 - Product/0 - Value.md",
     "3 - Product/1 - Use Cases.md",
@@ -173,7 +175,6 @@
     "1 - Conceptuality/Developmental Pathway/4. Subsistence.md",
     "1 - Conceptuality/Developmental Pathway/3. Relatedness.md",
     "1 - Conceptuality/Developmental Pathway/2. Polarity.md",
-    "1 - Conceptuality/Directional Framing.md",
     "Glossary of Terms.md",
     "5 - Next steps",
     "4 - Question-framing",
@@ -192,8 +193,6 @@
     "Assets/relatedness.png",
     "Assets/realtedness.png",
     "Assets/polarity.png",
-    "Assets/wholeness.svg",
-    "Assets/wholeness.png",
-    "Assets/autocracy.svg"
+    "Assets/wholeness.svg"
   ]
 }
