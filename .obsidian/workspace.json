@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deb23d11dd0290d8",
+            "id": "d4f76589d87df52a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Voyaging/Crew/David Rohmer.md",
+                "file": "3 - Product/1 - Use Cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Voyaging/Crew/David Rohmer.md",
+                "file": "3 - Product/1 - Use Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Voyaging/Crew/David Rohmer.md",
+                "file": "3 - Product/1 - Use Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Voyaging/Crew/David Rohmer.md"
+                "file": "3 - Product/1 - Use Cases.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deb23d11dd0290d8",
+  "active": "d4f76589d87df52a",
   "lastOpenFiles": [
+    "3 - Product/0 - Value.md",
+    "5 - Next steps/3 - Fundraising Strategy.md",
+    "5 - Next steps/4 - Partnerships.md",
+    "5 - Next steps/1 - Roadmap.md",
+    "0 - Voyaging/Crew/David Rohmer.md",
     "0 - Voyaging/Crew/Keith Ang.md",
     "0 - Voyaging/Crew/Mario Yanez.md",
     "1 - Conceptuality/Developmental Pathway/12. Autocracy.md",
@@ -166,18 +171,13 @@
     "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
     "1 - Conceptuality/Developmental Pathway/0. Intro.md",
     "1 - Conceptuality/Directional Framing.md",
-    "3 - Product/0 - Value.md",
     "Glossary of Terms.md",
-    "5 - Next steps/1 - Roadmap.md",
     "5 - Next steps/0 - Second Replace Academy Voyage.md",
     "5 - Next steps",
     "4 - Question-framing",
     "3 - Product/3 - Go To Market.md",
     "3 - Product/2 - Differentiation.md",
-    "3 - Product/1 - Use Cases.md",
     "3 - Product",
-    "2 - Technicality/1 - Implementation Details.md",
-    "2 - Technicality/0 - Librarian.md",
     "2 - Technicality",
     "1 - Conceptuality/Developmental Pathway",
     "1 - Conceptuality",

@@ -1,1 +1,3 @@
-/ greater whole
+Gwyrddni
+Regenesis Community of Practice
+Wada
