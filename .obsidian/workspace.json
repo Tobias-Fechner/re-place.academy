@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developmental Pathway/3. Relatedness.md",
+                "file": "Developmental Pathway/5. Potentiality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developmental Pathway/3. Relatedness.md",
+                "file": "Developmental Pathway/5. Potentiality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developmental Pathway/3. Relatedness.md",
+                "file": "Developmental Pathway/5. Potentiality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developmental Pathway/3. Relatedness.md"
+                "file": "Developmental Pathway/5. Potentiality.md"
               }
             }
           }
@@ -149,29 +149,28 @@
   },
   "active": "deb23d11dd0290d8",
   "lastOpenFiles": [
-    "Assets/relatedness.png",
-    "Assets/realtedness.png",
+    "Developmental Pathway/4.5. Being (2nd Line).md",
+    "Developmental Pathway/4. Subsistence.md",
+    "Developmental Pathway/3. Relatedness.md",
     "Developmental Pathway/2. Polarity.md",
     "Developmental Pathway/1. Wholeness.md",
+    "Assets/subsistence.png",
+    "Assets/relatedness.png",
+    "Assets/realtedness.png",
     "Assets/polarity.png",
     "Assets/wholeness.svg",
     "Assets/wholeness.png",
-    "Developmental Pathway/4.5. Being (2nd Line).md",
     "Assets/autocracy.svg",
     "Assets/domination.svg",
     "Assets/creativity.svg",
     "Assets/pattern.svg",
-    "Assets/will.svg",
-    "Assets/individuality.svg",
     "Developmental Pathway/8.5. Will (3rd line).md",
-    "Developmental Pathway/3. Relatedness.md",
     "Developmental Pathway/0. Intro.md",
     "Developmental Pathway/0.5. Function (1st Line).md",
     "Directional Framing.md",
     "README.md",
     "Developmental Pathway/6. Repetition.md",
     "Developmental Pathway/5. Potentiality.md",
-    "Developmental Pathway/4. Subsistence.md",
     "Welcome.md",
     "Voyager Welcome Pack.md",
     "Glossary of Terms.md",
