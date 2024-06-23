@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developmental Pathway/5. Potentiality.md",
+                "file": "3 - Product/0 - Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developmental Pathway/5. Potentiality.md",
+                "file": "3 - Product/0 - Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developmental Pathway/5. Potentiality.md",
+                "file": "3 - Product/0 - Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developmental Pathway/5. Potentiality.md"
+                "file": "3 - Product/0 - Value.md"
               }
             }
           }
@@ -149,49 +149,51 @@
   },
   "active": "deb23d11dd0290d8",
   "lastOpenFiles": [
-    "Developmental Pathway/7. Structure.md",
-    "Developmental Pathway/6. Repetition.md",
-    "Developmental Pathway/8. Individuality.md",
+    "Glossary of Terms.md",
+    "5 - Next steps/1 - Roadmap.md",
+    "5 - Next steps/0 - Second Replace Academy Voyage.md",
+    "5 - Next steps",
+    "4 - Question-framing",
+    "3 - Product/3 - Go To Market.md",
+    "3 - Product/2 - Differentiation.md",
+    "3 - Product/0 - Value.md",
+    "3 - Product/1 - Use Cases.md",
+    "3 - Product",
+    "2 - Technicality/1 - Implementation Details.md",
+    "2 - Technicality/0 - Librarian.md",
+    "2 - Technicality",
+    "1 - Conceptuality/Developmental Pathway/9. Pattern.md",
+    "1 - Conceptuality/Developmental Pathway/8.5. Will (3rd line).md",
+    "1 - Conceptuality/Developmental Pathway/8. Individuality.md",
+    "1 - Conceptuality/Developmental Pathway/7. Structure.md",
+    "1 - Conceptuality/Developmental Pathway/6. Repetition.md",
+    "1 - Conceptuality/Developmental Pathway/4.5. Being (2nd Line).md",
+    "1 - Conceptuality/Developmental Pathway/5. Potentiality.md",
+    "1 - Conceptuality/Developmental Pathway/4. Subsistence.md",
+    "1 - Conceptuality/Developmental Pathway/3. Relatedness.md",
+    "1 - Conceptuality/Developmental Pathway/2. Polarity.md",
+    "1 - Conceptuality/Developmental Pathway/12. Autocracy.md",
+    "1 - Conceptuality/Developmental Pathway/11. Domination.md",
+    "1 - Conceptuality/Developmental Pathway/10. Creativity.md",
+    "1 - Conceptuality/Developmental Pathway/0. Intro.md",
+    "1 - Conceptuality/Developmental Pathway/0.5. Function (1st Line).md",
+    "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
+    "1 - Conceptuality/Directional Framing.md",
+    "1 - Conceptuality/Developmental Pathway",
+    "1 - Conceptuality",
+    "0 - Voyaging/Day 9 - Sat 15",
+    "0 - Voyaging/Day 8 - Fri 14",
+    "0 - Voyaging/Day 7 - Thur 13",
+    "0 - Voyaging/Day 6 - Wed 12",
     "Assets/structure.png",
     "Assets/repetition.png",
-    "Developmental Pathway/5. Potentiality.md",
-    "Developmental Pathway/4.5. Being (2nd Line).md",
-    "Developmental Pathway/4. Subsistence.md",
-    "Developmental Pathway/3. Relatedness.md",
     "Assets/potentiality.png",
-    "Developmental Pathway/2. Polarity.md",
-    "Developmental Pathway/1. Wholeness.md",
     "Assets/subsistence.png",
     "Assets/relatedness.png",
     "Assets/realtedness.png",
     "Assets/polarity.png",
     "Assets/wholeness.svg",
     "Assets/wholeness.png",
-    "Assets/autocracy.svg",
-    "Developmental Pathway/8.5. Will (3rd line).md",
-    "Developmental Pathway/0. Intro.md",
-    "Developmental Pathway/0.5. Function (1st Line).md",
-    "Directional Framing.md",
-    "README.md",
-    "Welcome.md",
-    "Voyager Welcome Pack.md",
-    "Glossary of Terms.md",
-    "Digital Participation Plan for Voyage.md",
-    "Daily Drops.md",
-    "Developmental Pathway/12. Autocracy.md",
-    "Developmental Pathway/11. Domination.md",
-    "Developmental Pathway/10. Creativity.md",
-    "Developmental Pathway/9. Pattern.md",
-    "Developmental Pathway",
-    "vault.zip",
-    "re-place.academy",
-    "Metabolic Earth/On-boarding to Metabolic.Earth.md",
-    "Metabolic Earth/High-level overview.md",
-    "Metabolic Earth",
-    "Cardano Catalyst Proposal",
-    "Assets",
-    "re-place.academy/Metabolic Earth",
-    "re-place.academy/Cardano Catalyst Proposal",
-    "re-place.academy/Assets"
+    "Assets/autocracy.svg"
   ]
 }
