@@ -1,4 +1,4 @@
-Why: LifeWeb is dedicated to enabling self-organization of communities, at bioregional scales (somewhere between local and global), dedicated to manifesting regenerative--Life-affirming--patterns in the world. 
+Why: LifeWeb is dedicated to enabling self-organization of communities, at bioregional scales (somewhere between local and global), dedicated to manifesting regenerative --Life-affirming--patterns in the world. 
 
 What: LifeWeb is an online space of pure potential (an uncontested space, "above" or "outside" the internet), where the thickness of relations we can only currently intuit become visible. 
 
