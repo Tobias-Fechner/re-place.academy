@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directional Framing.md",
+                "file": "Developmental Pathway/1. Wholeness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directional Framing.md",
+                "file": "Developmental Pathway/1. Wholeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directional Framing.md",
+                "file": "Developmental Pathway/1. Wholeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directional Framing.md"
+                "file": "Developmental Pathway/1. Wholeness.md"
               }
             }
           }
@@ -149,13 +149,18 @@
   },
   "active": "deb23d11dd0290d8",
   "lastOpenFiles": [
-    "README.md",
+    "Developmental Pathway/4.5. Being (2nd Line).md",
+    "Developmental Pathway/8.5. Will (3rd line).md",
+    "Developmental Pathway/3. Relatedness.md",
+    "Developmental Pathway/2. Polarity.md",
+    "Developmental Pathway/1. Wholeness.md",
+    "Developmental Pathway/0. Intro.md",
+    "Developmental Pathway/0.5. Function (1st Line).md",
     "Directional Framing.md",
+    "README.md",
     "Developmental Pathway/6. Repetition.md",
     "Developmental Pathway/5. Potentiality.md",
     "Developmental Pathway/4. Subsistence.md",
-    "Developmental Pathway/3. Relatedness.md",
-    "Developmental Pathway/1. Wholeness.md",
     "Assets/replace.png",
     "Welcome.md",
     "Voyager Welcome Pack.md",
@@ -166,13 +171,8 @@
     "Developmental Pathway/11. Domination.md",
     "Developmental Pathway/10. Creativity.md",
     "Developmental Pathway/9. Pattern.md",
-    "Developmental Pathway/8.5. Will (3rd line).md",
     "Developmental Pathway/8. Individuality.md",
     "Developmental Pathway/7. Structure.md",
-    "Developmental Pathway/4.5. Being (2nd Line).md",
-    "Developmental Pathway/2. Polarity.md",
-    "Developmental Pathway/0.5. Function (1st Line).md",
-    "Developmental Pathway/0. Intro.md",
     "Developmental Pathway",
     "vault.zip",
     "re-place.academy",
