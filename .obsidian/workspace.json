@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developmental Pathway/2. Polarity.md",
+                "file": "Developmental Pathway/3. Relatedness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developmental Pathway/2. Polarity.md",
+                "file": "Developmental Pathway/3. Relatedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developmental Pathway/2. Polarity.md",
+                "file": "Developmental Pathway/3. Relatedness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developmental Pathway/2. Polarity.md"
+                "file": "Developmental Pathway/3. Relatedness.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "deb23d11dd0290d8",
   "lastOpenFiles": [
-    "Developmental Pathway/1. Wholeness.md",
     "Developmental Pathway/2. Polarity.md",
+    "Developmental Pathway/1. Wholeness.md",
     "Assets/polarity.png",
     "Assets/wholeness.svg",
     "Assets/wholeness.png",
