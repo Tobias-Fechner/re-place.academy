@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Voyaging/Crew/Mario Yanez.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Voyaging/Crew/Mario Yanez.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Voyaging/Crew/Mario Yanez.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Voyaging/Crew/Mario Yanez.md"
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md"
               }
             }
           }
@@ -172,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f55645c25d18edf6",
+  "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
+    "0 - Voyaging/Crew/Mario Yanez.md",
     "0 - Voyaging/Crew/Keith Ang.md",
     "0 - Voyaging/Crew/David Rohmer.md",
     "3 - Product/1 - Use Cases.md",
@@ -202,7 +203,6 @@
     "3 - Product/Ecosystem Orientation/Software/Local-First.md",
     "3 - Product/Ecosystem Orientation/Software/P2P.md",
     "3 - Product/Ecosystem Orientation/Programs",
-    "3 - Product/Stakeholders/Technical partners/Untitled.md",
     "3 - Product/Ecosystem Orientation/Software",
     "3 - Product/Stakeholders/Partners",
     "3 - Product/Stakeholders/Early-adopters",
