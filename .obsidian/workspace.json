@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md"
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "d4f76589d87df52a",
   "lastOpenFiles": [
-    "3 - Product/1 - Use Cases.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
+    "3 - Product/1 - Use Cases.md",
     "3 - Product/0 - Value.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
     "X - Templates/Stakeholder.md",
