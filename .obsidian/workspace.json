@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Holochain.md",
+                "file": "3 - Product/Stakeholders/Partners/Holochain.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
+                "file": "3 - Product/Stakeholders/Partners/Regenesis Institute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "580c9f6eb6a7fb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md"
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md"
               }
             }
           }
@@ -160,11 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e29e6b625655e831",
+  "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
-    "3 - Product/Stakeholders/Technical Partners/Really Regenerative.md",
-    "3 - Product/Stakeholders/Technical Partners/Hypha.md",
-    "3 - Product/Stakeholders/Technical Partners/Holochain.md",
+    "3 - Product/Stakeholders/Partners/Gwyrddni.md",
+    "3 - Product/Stakeholders/Partners/Regenesis Institute.md",
+    "3 - Product/Stakeholders/Partners/Really Regenerative.md",
+    "3 - Product/Stakeholders/Partners/Hypha.md",
+    "3 - Product/Stakeholders/Partners/Holochain.md",
     "3 - Product/Ecosystem Orientation/Programs/Action-Research.md",
     "3 - Product/Ecosystem Orientation/Programs/Incubators.md",
     "3 - Product/Ecosystem Orientation/Programs/Hackathons.md",
@@ -173,9 +187,8 @@
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
     "3 - Product/2 - Differentiation.md",
     "3 - Product/1 - Use Cases.md",
-    "3 - Product/Stakeholders/Early-adopters/Resilience and Humanitarian Action Zones/Resilience and Humanitarian Action Zones.md",
-    "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Wada.md",
+    "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
+    "3 - Product/Stakeholders/Partners/Wada.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
     "3 - Product/Ecosystem Orientation/Software/Decentralised Organisations.md",
@@ -189,15 +202,14 @@
     "3 - Product/Ecosystem Orientation/Programs",
     "3 - Product/Stakeholders/Technical partners/Untitled.md",
     "3 - Product/Ecosystem Orientation/Software",
-    "3 - Product/Stakeholders/Technical Partners",
+    "3 - Product/Stakeholders/Partners",
     "3 - Product/Stakeholders/Early-adopters",
     "3 - Product/Stakeholders/Early-adopters/Ecovillages",
     "3 - Product/Stakeholders/Hackerspaces/Hackerspaces.md",
-    "3 - Product/Stakeholders/Early-adopters/Resilience and Humanitarian Action Zones",
+    "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones",
     "3 - Product/Stakeholders/Hackerspaces",
     "3 - Product/Stakeholders/Early-adopters/Living Labs",
     "1 - Conceptuality/Directional Framing.md",
-    "3 - Product/3 - Go To Market.md",
     "Assets/framework-overview.png",
     "Assets/framework-overview.svg",
     "Assets/structure.png",
