@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md",
+                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md",
+                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md",
+                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md"
+                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md"
               }
             }
           }
@@ -149,11 +149,30 @@
   },
   "active": "d4f76589d87df52a",
   "lastOpenFiles": [
+    "3 - Product/Stakeholders/Technical partners/Software/P2P.md",
+    "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
+    "3 - Product/Stakeholders/Technical partners/Programs/Hackathons.md",
+    "3 - Product/Stakeholders/Technical partners/Programs/Collaboration Events.md",
+    "3 - Product/Stakeholders/Technical partners/Programs/Incubators.md",
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
+    "3 - Product/Stakeholders/Technical partners/Programs",
+    "3 - Product/Stakeholders/Technical partners/Untitled.md",
+    "3 - Product/Stakeholders/Technical partners/Software",
+    "3 - Product/Stakeholders/Technical partners",
+    "3 - Product/Stakeholders/Early-adopters",
+    "3 - Product/1 - Use Cases.md",
+    "3 - Product/Stakeholders/Early-adopters/Ecovillages/Ecovillages.md",
+    "3 - Product/Stakeholders/Early-adopters/Change-maker Networks/Change-maker Networks.md",
+    "3 - Product/Stakeholders/Early-adopters/Ecovillages",
+    "3 - Product/Stakeholders/Hackerspaces/Hackerspaces.md",
+    "3 - Product/Stakeholders/Early-adopters/Change-maker Networks",
+    "3 - Product/Stakeholders/Hackerspaces",
+    "3 - Product/Stakeholders/Early-adopters/Living Labs",
+    "3 - Product/Stakeholders",
     "3 - Product/0 - Value.md",
     "1 - Conceptuality/Directional Framing.md",
     "3 - Product/3 - Go To Market.md",
     "3 - Product/2 - Differentiation.md",
-    "3 - Product/1 - Use Cases.md",
     "2 - Technicality/1 - Implementation Details.md",
     "2 - Technicality/0 - Librarian.md",
     "1 - Conceptuality/Framework Intro.md",
@@ -167,26 +186,7 @@
     "5 - Next steps/1 - Roadmap.md",
     "0 - Voyaging/Crew/David Rohmer.md",
     "0 - Voyaging/Crew/Keith Ang.md",
-    "0 - Voyaging/Crew/Mario Yanez.md",
-    "1 - Conceptuality/Developmental Pathway/11. Domination.md",
-    "1 - Conceptuality/Developmental Pathway/10. Creativity.md",
-    "1 - Conceptuality/Developmental Pathway/9. Pattern.md",
-    "1 - Conceptuality/Developmental Pathway/7. Structure.md",
-    "1 - Conceptuality/Developmental Pathway/8. Individuality.md",
-    "1 - Conceptuality/Developmental Pathway/6. Repetition.md",
-    "1 - Conceptuality/Developmental Pathway/5. Potentiality.md",
-    "1 - Conceptuality/Developmental Pathway/4.5. Being (2nd Line).md",
-    "1 - Conceptuality/Developmental Pathway/4. Subsistence.md",
     "5 - Next steps",
-    "4 - Question-framing",
-    "3 - Product",
-    "2 - Technicality",
-    "1 - Conceptuality/Developmental Pathway",
-    "1 - Conceptuality",
-    "0 - Voyaging/Day 9 - Sat 15",
-    "0 - Voyaging/Day 8 - Fri 14",
-    "0 - Voyaging/Day 7 - Thur 13",
-    "0 - Voyaging/Day 6 - Wed 12",
     "Assets/structure.png",
     "Assets/repetition.png",
     "Assets/potentiality.png",
