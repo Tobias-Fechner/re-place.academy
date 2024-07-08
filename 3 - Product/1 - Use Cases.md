@@ -1,4 +1,9 @@
-For the first phase of [[3 - Go To Market|GTM]], we'll be seeking to partner with hree project/ organisational groups 
+Three categories of projects/ organisational forms are prioritised for the first phase of our adoption campaign. 
+
+1. Living Labs, hackerspaces and technology-open community hubs
+	1. [[]]
+2. Ecovillages and permaculture farms
+3. Place-based and regenerative change-maker networks 
 # Gwyrddni
 
 # Wada
