@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md"
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "e29e6b625655e831",
   "lastOpenFiles": [
+    "3 - Product/Ecosystem Orientation/Programs/Action-Research.md",
+    "3 - Product/2 - Differentiation.md",
     "3 - Product/1 - Use Cases.md",
     "3 - Product/Stakeholders/Early-adopters/Resilience and Humanitarian Action Zones/Resilience and Humanitarian Action Zones.md",
     "3 - Product/Stakeholders/Technical Partners/Really Regenerative.md",
@@ -179,7 +181,6 @@
     "3 - Product/0 - Value.md",
     "X - Templates/Stakeholder.md",
     "X - Templates",
-    "3 - Product/2 - Differentiation.md",
     "3 - Product/Ecosystem Orientation/Software/dMRV.md",
     "3 - Product/Ecosystem Orientation/Software/Local-First.md",
     "3 - Product/Ecosystem Orientation/Software/P2P.md",
@@ -197,7 +198,6 @@
     "3 - Product/Stakeholders/Early-adopters/Living Labs",
     "1 - Conceptuality/Directional Framing.md",
     "3 - Product/3 - Go To Market.md",
-    "2 - Technicality/1 - Implementation Details.md",
     "Assets/framework-overview.png",
     "Assets/framework-overview.svg",
     "Assets/structure.png",
