@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+                "file": "3 - Product/0 - Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+                "file": "3 - Product/0 - Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+                "file": "3 - Product/0 - Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md"
+                "file": "3 - Product/0 - Value.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
-    "3 - Product/0 - Value.md",
     "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+    "3 - Product/0 - Value.md",
     "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
     "1 - Conceptuality/Directional Framing.md",
     "3 - Product/1 - Use Cases.md",
