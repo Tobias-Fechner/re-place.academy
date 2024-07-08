@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/3 - Go To Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/3 - Go To Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/3 - Go To Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md"
+                "file": "3 - Product/3 - Go To Market.md"
               }
             }
           }
@@ -174,12 +174,13 @@
   },
   "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
+    "3 - Product/0 - Value.md",
+    "3 - Product/Stakeholders/Partners/Astralship.md",
     "3 - Product/1 - Use Cases.md",
+    "3 - Product/2 - Differentiation.md",
     "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
     "3 - Product/Ecosystem Orientation/Software/Local-first.md",
-    "3 - Product/2 - Differentiation.md",
     "3 - Product/3 - Go To Market.md",
-    "3 - Product/0 - Value.md",
     "3 - Product/Stakeholders/Partners/Regenesis Institute.md",
     "3 - Product/Stakeholders/Partners/Wada.md",
     "3 - Product/Stakeholders/Partners/Hypha.md",
@@ -201,7 +202,6 @@
     "3 - Product/Ecosystem Orientation",
     "X - Templates/Stakeholder.md",
     "X - Templates",
-    "3 - Product/Ecosystem Orientation/Software/dMRV.md",
     "3 - Product/Ecosystem Orientation/Programs",
     "3 - Product/Ecosystem Orientation/Software",
     "3 - Product/Stakeholders/Partners",
