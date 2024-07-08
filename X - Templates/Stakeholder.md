@@ -1,4 +1,6 @@
 ---
 website: 
-stakeholder-group:
+stakeholder-group: 
+date-made: "{{date}} {{time}}"
+tags:
 ---

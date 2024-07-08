@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X - Templates/Stakeholder.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X - Templates/Stakeholder.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X - Templates/Stakeholder.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X - Templates/Stakeholder.md"
+                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "d4f76589d87df52a",
   "lastOpenFiles": [
+    "3 - Product/1 - Use Cases.md",
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
+    "3 - Product/0 - Value.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
     "X - Templates/Stakeholder.md",
     "X - Templates",
-    "3 - Product/1 - Use Cases.md",
-    "3 - Product/0 - Value.md",
     "3 - Product/2 - Differentiation.md",
     "3 - Product/Stakeholders/Technical Partners/Software/Decentralised Organisation.md",
     "3 - Product/Stakeholders/Technical Partners/Software/dMRV.md",
@@ -186,7 +187,6 @@
     "Assets/framework-overview.svg",
     "1 - Conceptuality/Developmental Pathway/12. Autocracy.md",
     "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
-    "5 - Next steps/3 - Fundraising Strategy.md",
     "Assets/structure.png",
     "Assets/repetition.png",
     "Assets/potentiality.png",

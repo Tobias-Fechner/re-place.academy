@@ -1,4 +1,9 @@
 {
   "attachmentFolderPath": "Assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Assets/",
+    "X - Templates/"
+  ],
+  "newFileLocation": "current"
 }
