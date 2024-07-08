@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md"
+                "file": "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md"
               }
             }
           }
@@ -174,11 +174,13 @@
   },
   "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
+    "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
+    "3 - Product/Stakeholders/Early-adopters/Ecovillages/Ecovillages.md",
     "0 - Voyaging/Crew/Mario Yanez.md",
     "0 - Voyaging/Crew/Keith Ang.md",
     "0 - Voyaging/Crew/David Rohmer.md",
     "3 - Product/1 - Use Cases.md",
-    "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
     "3 - Product/Stakeholders/Partners/Gwyrddni.md",
     "3 - Product/Stakeholders/Partners/Regenesis Institute.md",
     "3 - Product/Stakeholders/Partners/Really Regenerative.md",
@@ -188,8 +190,6 @@
     "3 - Product/Ecosystem Orientation/Programs/Incubators.md",
     "3 - Product/Ecosystem Orientation/Programs/Hackathons.md",
     "3 - Product/Ecosystem Orientation/Programs/Collaboration Events.md",
-    "3 - Product/Stakeholders/Early-adopters/Ecovillages/Ecovillages.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
     "3 - Product/2 - Differentiation.md",
     "3 - Product/Stakeholders/Partners/Wada.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",

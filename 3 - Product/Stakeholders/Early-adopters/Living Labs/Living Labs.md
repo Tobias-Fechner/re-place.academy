@@ -10,8 +10,6 @@ Non-academic:
 
 ---
 
-### Living Labs, Hackerhouses, and Pro-Technology Community Learning Centres
-
 **Characteristics:**
 - **Innovation Ecosystems:** These environments are designed to foster innovation through collaboration, experimentation, and the rapid prototyping of new technologies and solutions.
 - **Community Engagement:** Strong focus on engaging local communities and stakeholders to participate in the innovation process, ensuring solutions are relevant and beneficial.
