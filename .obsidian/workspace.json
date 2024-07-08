@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md",
+                "file": "3 - Product/2 - Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md",
+                "file": "3 - Product/2 - Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md",
+                "file": "3 - Product/2 - Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/1 - Use Cases.md"
+                "file": "3 - Product/2 - Differentiation.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "e29e6b625655e831",
   "lastOpenFiles": [
+    "3 - Product/1 - Use Cases.md",
+    "3 - Product/Stakeholders/Early-adopters/Resilience and Humanitarian Action Zones/Resilience and Humanitarian Action Zones.md",
     "3 - Product/Stakeholders/Technical Partners/Really Regenerative.md",
     "3 - Product/Stakeholders/Technical Partners/Holochain.md",
     "3 - Product/Stakeholders/Technical Partners/Hypha.md",
@@ -175,7 +177,6 @@
     "3 - Product/Ecosystem Orientation/Programs/Hackathons.md",
     "3 - Product/Ecosystem Orientation",
     "3 - Product/0 - Value.md",
-    "3 - Product/1 - Use Cases.md",
     "X - Templates/Stakeholder.md",
     "X - Templates",
     "3 - Product/2 - Differentiation.md",
@@ -189,10 +190,9 @@
     "3 - Product/Ecosystem Orientation/Software",
     "3 - Product/Stakeholders/Technical Partners",
     "3 - Product/Stakeholders/Early-adopters",
-    "3 - Product/Stakeholders/Early-adopters/Change-maker Networks/Change-maker Networks.md",
     "3 - Product/Stakeholders/Early-adopters/Ecovillages",
     "3 - Product/Stakeholders/Hackerspaces/Hackerspaces.md",
-    "3 - Product/Stakeholders/Early-adopters/Change-maker Networks",
+    "3 - Product/Stakeholders/Early-adopters/Resilience and Humanitarian Action Zones",
     "3 - Product/Stakeholders/Hackerspaces",
     "3 - Product/Stakeholders/Early-adopters/Living Labs",
     "1 - Conceptuality/Directional Framing.md",

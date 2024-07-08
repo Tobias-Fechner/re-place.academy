@@ -5,8 +5,8 @@ Three categories of projects/ organisational forms are prioritised for the first
 	2. [[Moos Berlin]]
 	3. [[Wada]]
 	4. [[Astralship]]
+	5. [[Resilience.Earth]]
 2. Ecovillages and permaculture farms
 	1. [[Tydden Teg]]
-3. Place-based and regenerative change-maker networks 
-	1. [[Regenesis Institute]]
-
+3. Resilience and Humanitarian Action Zones
+	1. 
