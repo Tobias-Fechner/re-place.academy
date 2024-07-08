@@ -4,6 +4,8 @@ Three categories of projects/ organisational forms are prioritised for the first
 	1. [[Commons Hub]]
 	2. [[Traditional Dream Factory]]
 	3. [[Moos Berlin]]
+	4. [[Wada]]
+	5. [[Astralship]]
 2. Ecovillages and permaculture farms
 3. Place-based and regenerative change-maker networks 
 # Gwyrddni
