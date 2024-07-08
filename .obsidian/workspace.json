@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/0 - Value.md",
+                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "co-here",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/0 - Value.md",
+                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/0 - Value.md",
+                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/0 - Value.md"
+                "file": "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md"
               }
             }
           }
@@ -174,8 +174,10 @@
   },
   "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
-    "1 - Conceptuality/Directional Framing.md",
     "3 - Product/0 - Value.md",
+    "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+    "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
+    "1 - Conceptuality/Directional Framing.md",
     "3 - Product/1 - Use Cases.md",
     "3 - Product/3 - Go To Market.md",
     "3 - Product/Stakeholders/Partners/Astralship.md",
@@ -198,8 +200,6 @@
     "3 - Product/Ecosystem Orientation/Programs/Hackathons.md",
     "3 - Product/Ecosystem Orientation/Programs/Collaboration Events.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
-    "3 - Product/Ecosystem Orientation/Software/Decentralised Organisations.md",
     "3 - Product/Ecosystem Orientation",
     "X - Templates",
     "3 - Product/Ecosystem Orientation/Programs",
