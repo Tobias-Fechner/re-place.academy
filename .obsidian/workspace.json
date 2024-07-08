@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "3 - Product/1 - Use Cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "3 - Product/1 - Use Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "3 - Product/1 - Use Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md"
+                "file": "3 - Product/1 - Use Cases.md"
               }
             }
           }
@@ -147,17 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f55645c25d18edf6",
+  "active": "d4f76589d87df52a",
   "lastOpenFiles": [
+    "3 - Product/0 - Value.md",
     "1 - Conceptuality/Directional Framing.md",
+    "3 - Product/3 - Go To Market.md",
+    "3 - Product/2 - Differentiation.md",
+    "3 - Product/1 - Use Cases.md",
+    "2 - Technicality/1 - Implementation Details.md",
+    "2 - Technicality/0 - Librarian.md",
     "1 - Conceptuality/Framework Intro.md",
     "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
     "Assets/framework-overview.png",
     "Assets/framework-overview.svg",
     "1 - Conceptuality/Developmental Pathway/12. Autocracy.md",
     "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
-    "3 - Product/0 - Value.md",
-    "3 - Product/1 - Use Cases.md",
     "5 - Next steps/3 - Fundraising Strategy.md",
     "5 - Next steps/4 - Partnerships.md",
     "5 - Next steps/1 - Roadmap.md",
@@ -173,9 +177,6 @@
     "1 - Conceptuality/Developmental Pathway/5. Potentiality.md",
     "1 - Conceptuality/Developmental Pathway/4.5. Being (2nd Line).md",
     "1 - Conceptuality/Developmental Pathway/4. Subsistence.md",
-    "1 - Conceptuality/Developmental Pathway/3. Relatedness.md",
-    "1 - Conceptuality/Developmental Pathway/2. Polarity.md",
-    "Glossary of Terms.md",
     "5 - Next steps",
     "4 - Question-framing",
     "3 - Product",
