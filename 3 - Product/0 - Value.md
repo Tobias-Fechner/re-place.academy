@@ -7,10 +7,13 @@ In short, a voyage can be thought of as a holistic, multi-week hackathon - a co-
 ### Voyage Preparation
 For a given voyage, a multi-disciplinary cohort is woven together, with resonant lines of work that gesture toward latent collaborative potentials. Leading up to a voyage, voyagers are given the time and space to share, with vulnerability, the deeper meaning of their life's work. Held in a safe space, this is an opportunity to build depth of relation with other voyagers who empathise and find mutual interest with their intentions. Finding some alignment of purpose before the event begins, voyagers then enter into a co-living environment ([[Astralship]]) - a commons - where they're required to bring their whole selves to co-create the culture and social fabric that forms the foundation of the experience. Voyages are further potentialised by partner relations, whether technical ([[Hypha]], [[Holochain]]), practical ([[Wada]]) or programmatic ([[Regenesis Institute]], [[Gwyrddni]]), there to integrate further layers into the process and intervene at critical moments with an alternative perspective. Voyagers are facilitated by the host team who are themselves practicing the various components of a given voyaging methodology. Once the voyage is underway, the conditions created are the basis for emergence and transformation, although navigating complexity is not straight-forward. 
 ### Conditions for Emergence
-In the weeks leading up to the voyage, the following infrastructures were set up: 
+In the weeks leading up to the voyage, the following instruments were set up: 
 1. Voice-based energy accounting - for voyagers to be able to account for their time and energy invested into the collaboration
-2. Appreciation bot - an example of how a simple chat-integration can be used to 
-[[Hypha]]: DAO activation: 
+2. Appreciation bot - one example of how a simple chat-integration can be used to make visible different flows that occur in the formation of a relational field
+3. Voice-based learning modules - a means to create and share how a given system can be seen, understood and cared for toward higher orders of its actualisation
+4. Sociocracy - decentralised, consent-based decision-making, actively practiced at least twice daily in morning and evening circles
+5. Calendar event scheduling and integrated communications - for dynamic conferencing
+6. [[Hypha]] was engaged as a means for the cohort to form as a an organisational entity, 
 [[Holochain]]: currency: making visible value flows: data sovereignty: 
 [[Regenesis Institute]]: organisational change technology: (w)holistic/ regenerative paradigm integrity: 
 [[Wada]]: p2p learning: community learning hub network: 
