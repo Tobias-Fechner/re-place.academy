@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
+                "file": "3 - Product/0 - Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
+                "file": "3 - Product/0 - Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
+                "file": "3 - Product/0 - Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical partners/Software/Local-First.md"
+                "file": "3 - Product/0 - Value.md"
               }
             }
           }
@@ -149,16 +149,19 @@
   },
   "active": "d4f76589d87df52a",
   "lastOpenFiles": [
-    "3 - Product/Stakeholders/Technical partners/Software/P2P.md",
-    "3 - Product/Stakeholders/Technical partners/Software/Local-First.md",
-    "3 - Product/Stakeholders/Technical partners/Programs/Hackathons.md",
-    "3 - Product/Stakeholders/Technical partners/Programs/Collaboration Events.md",
-    "3 - Product/Stakeholders/Technical partners/Programs/Incubators.md",
+    "3 - Product/2 - Differentiation.md",
+    "3 - Product/Stakeholders/Technical Partners/Software/Decentralised Organisation.md",
+    "3 - Product/Stakeholders/Technical Partners/Software/dMRV.md",
+    "3 - Product/Stakeholders/Technical Partners/Software/Local-First.md",
+    "3 - Product/Stakeholders/Technical Partners/Software/P2P.md",
+    "3 - Product/Stakeholders/Technical Partners/Programs/Hackathons.md",
+    "3 - Product/Stakeholders/Technical Partners/Programs/Collaboration Events.md",
+    "3 - Product/Stakeholders/Technical Partners/Programs/Incubators.md",
     "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
-    "3 - Product/Stakeholders/Technical partners/Programs",
+    "3 - Product/Stakeholders/Technical Partners/Programs",
     "3 - Product/Stakeholders/Technical partners/Untitled.md",
-    "3 - Product/Stakeholders/Technical partners/Software",
-    "3 - Product/Stakeholders/Technical partners",
+    "3 - Product/Stakeholders/Technical Partners/Software",
+    "3 - Product/Stakeholders/Technical Partners",
     "3 - Product/Stakeholders/Early-adopters",
     "3 - Product/1 - Use Cases.md",
     "3 - Product/Stakeholders/Early-adopters/Ecovillages/Ecovillages.md",
@@ -172,7 +175,6 @@
     "3 - Product/0 - Value.md",
     "1 - Conceptuality/Directional Framing.md",
     "3 - Product/3 - Go To Market.md",
-    "3 - Product/2 - Differentiation.md",
     "2 - Technicality/1 - Implementation Details.md",
     "2 - Technicality/0 - Librarian.md",
     "1 - Conceptuality/Framework Intro.md",
@@ -184,8 +186,6 @@
     "5 - Next steps/3 - Fundraising Strategy.md",
     "5 - Next steps/4 - Partnerships.md",
     "5 - Next steps/1 - Roadmap.md",
-    "0 - Voyaging/Crew/David Rohmer.md",
-    "0 - Voyaging/Crew/Keith Ang.md",
     "5 - Next steps",
     "Assets/structure.png",
     "Assets/repetition.png",
