@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Programs/Hackathons.md",
+                "file": "3 - Product/Stakeholders/Technical Partners/Holochain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e29e6b625655e831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Programs/Hackathons.md",
+                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Programs/Hackathons.md",
+                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/Stakeholders/Technical Partners/Programs/Hackathons.md"
+                "file": "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md"
               }
             }
           }
@@ -147,44 +160,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f76589d87df52a",
+  "active": "e29e6b625655e831",
   "lastOpenFiles": [
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Wada.md",
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
+    "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
+    "3 - Product/Stakeholders/Early-adopters/Ecovillages/Ecovillages.md",
+    "3 - Product/Stakeholders/Technical Partners/Regenesis Institute.md",
+    "3 - Product/Stakeholders/Technical Partners/Hypha.md",
+    "3 - Product/Stakeholders/Technical Partners/Holochain.md",
+    "3 - Product/Ecosystem Orientation/Software/Decentralised Organisations.md",
+    "3 - Product/Ecosystem Orientation/Programs/Hackathons.md",
+    "3 - Product/Ecosystem Orientation",
     "3 - Product/0 - Value.md",
     "3 - Product/1 - Use Cases.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Wada.md",
-    "3 - Product/Stakeholders/Early-adopters/Change-maker Networks/Regenesis Institute.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Traditional Dream Factory.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Commons Hub.md",
     "X - Templates/Stakeholder.md",
     "X - Templates",
     "3 - Product/2 - Differentiation.md",
-    "3 - Product/Stakeholders/Technical Partners/Software/Decentralised Organisation.md",
-    "3 - Product/Stakeholders/Technical Partners/Software/dMRV.md",
-    "3 - Product/Stakeholders/Technical Partners/Software/Local-First.md",
-    "3 - Product/Stakeholders/Technical Partners/Software/P2P.md",
-    "3 - Product/Stakeholders/Technical Partners/Programs/Hackathons.md",
-    "3 - Product/Stakeholders/Technical Partners/Programs/Collaboration Events.md",
-    "3 - Product/Stakeholders/Technical Partners/Programs/Incubators.md",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs/Living Labs.md",
-    "3 - Product/Stakeholders/Technical Partners/Programs",
+    "3 - Product/Ecosystem Orientation/Software/dMRV.md",
+    "3 - Product/Ecosystem Orientation/Software/Local-First.md",
+    "3 - Product/Ecosystem Orientation/Software/P2P.md",
+    "3 - Product/Ecosystem Orientation/Programs/Collaboration Events.md",
+    "3 - Product/Ecosystem Orientation/Programs/Incubators.md",
+    "3 - Product/Ecosystem Orientation/Programs",
     "3 - Product/Stakeholders/Technical partners/Untitled.md",
-    "3 - Product/Stakeholders/Technical Partners/Software",
+    "3 - Product/Ecosystem Orientation/Software",
     "3 - Product/Stakeholders/Technical Partners",
     "3 - Product/Stakeholders/Early-adopters",
-    "3 - Product/Stakeholders/Early-adopters/Ecovillages/Ecovillages.md",
     "3 - Product/Stakeholders/Early-adopters/Change-maker Networks/Change-maker Networks.md",
     "3 - Product/Stakeholders/Early-adopters/Ecovillages",
     "3 - Product/Stakeholders/Hackerspaces/Hackerspaces.md",
     "3 - Product/Stakeholders/Early-adopters/Change-maker Networks",
     "3 - Product/Stakeholders/Hackerspaces",
     "3 - Product/Stakeholders/Early-adopters/Living Labs",
-    "3 - Product/Stakeholders",
     "1 - Conceptuality/Directional Framing.md",
     "3 - Product/3 - Go To Market.md",
     "2 - Technicality/1 - Implementation Details.md",
-    "2 - Technicality/0 - Librarian.md",
-    "1 - Conceptuality/Framework Intro.md",
-    "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
     "Assets/framework-overview.png",
     "Assets/framework-overview.svg",
     "Assets/structure.png",
