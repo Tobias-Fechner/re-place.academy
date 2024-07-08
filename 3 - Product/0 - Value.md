@@ -7,9 +7,8 @@ Value model: highlight the polycentric/ multi-hub network as organisational form
 [[Astralship]]: voyaging (action-learning): self-organising host: incubation: cohering: 
 
 ---
-
 # Voyaging
-Voyaging is a self-organised action-learning journey, guided by a theme, the needs of the place in which it is hosted, and the premise of radical collaboration. Each voyage is designed as an exercise in systemic design, with care being taken to elevate the regenerative 
+Voyaging is a self-organised action-learning journey, guided by a theme, the needs of the place in which it is hosted, and the premise of radical collaboration. Each voyage is designed as an exercise in regenerative systems actualisation, 
 
 For a given voyage, a multi-disciplinary cohort is woven together, potentialized by their resonant lines of work that gesture toward latent collaborative endeavours. Leading up to a voyage, pioneering change-makers are given the time and space to share with vulnerability the deeper meaning of their life's work. Held in a safe space, this is an opportunity to build depth of relation with other voyagers who empathise and find mutual interest with their intentions. These voyagers then enter into an immersive co-living environment where they're required to bring their whole selves to co-create the social fabric that forms the foundation of the experience. Voyages  partners relations that are set up before the event, and the series of 
 
