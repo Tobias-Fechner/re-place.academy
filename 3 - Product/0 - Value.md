@@ -9,6 +9,6 @@ Value model: highlight the polycentric/ multi-hub network as organisational form
 ---
 
 # Voyaging
-
+Voyaging is a self-organised action-learning journey, guided by a theme, the needs of the place in which it is hosted, and framed the premise of radical collaboration. 
 
 # Re:Place Product
