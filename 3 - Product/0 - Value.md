@@ -20,5 +20,6 @@ Specific to the Re:place Academy voyage, with its theme of `knowledge commoning 
 3. [[Regenesis Institute]], a key stakeholder, influenced the approach to the event design considerably, leveraging the frameworks that make up their organisational change technology.
 4. [[Wada]], also a key stakeholder, engaged the voyage with the possibility to carry forward the learnings and capabilities grown to their network of tech-focussed community learning centres across 11 countries of sub-Saharan Africa.
 # Re:Place Product
+LifeWeb is...
 
 [^1]: Society in Innovation and Science through CO-DEsign – siscodeproject.eu, https://siscodeproject.eu/guidebook/

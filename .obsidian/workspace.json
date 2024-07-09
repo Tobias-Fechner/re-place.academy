@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "3 - Product/0 - Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "3 - Product/0 - Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "3 - Product/0 - Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md"
+                "file": "3 - Product/0 - Value.md"
               }
             }
           }
@@ -174,14 +174,17 @@
   },
   "active": "580c9f6eb6a7fb26",
   "lastOpenFiles": [
-    "1 - Conceptuality/Developmental Pathway/0. Intro.md",
-    "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
-    "3 - Product/0 - Value.md",
-    "1 - Conceptuality/Developmental Pathway/8.5. Generating Aliveness.md",
-    "1 - Conceptuality/Developmental Pathway/0.5. Co-Here-ing Wholeness.md",
-    "1 - Conceptuality/Developmental Pathway/4.5. Activating Being.md",
-    "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
+    "1 - Conceptuality/Framework Intro.md",
     "1 - Conceptuality/Directional Framing.md",
+    "1 - Conceptuality/Developmental Pathway/8.5. Generating Aliveness.md",
+    "1 - Conceptuality/Developmental Pathway/8.5. Will (3rd line).md",
+    "1 - Conceptuality/Developmental Pathway/4.5. Activating Being.md",
+    "1 - Conceptuality/Developmental Pathway/0.5. Co-Here-ing Wholeness.md",
+    "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
+    "1 - Conceptuality/Developmental Pathway/4.5. Being (2nd Line).md",
+    "1 - Conceptuality/Developmental Pathway/0. Intro.md",
+    "3 - Product/0 - Value.md",
+    "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
     "3 - Product/1 - Use Cases.md",
     "3 - Product/3 - Go To Market.md",
     "3 - Product/Stakeholders/Partners/Astralship.md",
@@ -197,9 +200,6 @@
     "0 - Voyaging/Crew/Keith Ang.md",
     "0 - Voyaging/Crew/David Rohmer.md",
     "3 - Product/Stakeholders/Partners/Gwyrddni.md",
-    "3 - Product/Stakeholders/Partners/Really Regenerative.md",
-    "3 - Product/Stakeholders/Partners/Holochain.md",
-    "3 - Product/Ecosystem Orientation/Programs/Action-Research.md",
     "3 - Product/Ecosystem Orientation",
     "X - Templates",
     "3 - Product/Ecosystem Orientation/Programs",

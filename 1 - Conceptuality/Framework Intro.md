@@ -8,16 +8,12 @@ Process: The complete LifeWeb journey spans over 12 steps, divided into 3 segmen
 
 ![[framework-overview.png]]
 
-A. Co-here-ing wholeness: Finding your here together
-In the first segment of the LifeWeb pathway (steps 1-4), Persons move from fragmented experience of reality* towards falling into place within the nested wholes. 
-*It is because we do onto the world as fragments, that we are automatically destructive
+### A. [[0.5. Co-Here-ing Wholeness|Co-Here-ing Wholeness]]: Finding your here together
+In the first segment of the LifeWeb pathway (steps 1-4), Persons move from fragmented experience of reality[^1] towards falling into place within the nested wholes. 
 
-By committing to inhabit LifeWeb, persons agree to participate radically, from their whole being. Their presence initiates a process revealing and authenticating their relations (and vice-versa), which actively generates a relational "map" for navigating the complex of wholeness of which they are truly a part of in the real world.
-
-B. Activating Being: Discovering how immense we really are
+### B. [[4.5. Activating Being|Activating Being]]: Discovering how immense we really are
 In the second segment of the LifeWeb pathway (steps 5-8), Persons move from presence in their nested wholes towards radical participation within transformative ecosystems.
+### C. [[8.5. Generating Aliveness|Generating Aliveness]]: Re-patterning our world
+In the third segment of the of LifeWeb pathway (steps 9-12), Participants move from participating in transformative ecosystems towards generating pathways together that transpose regenerative patterns form LifeWeb into the real world.
 
-As Participants progress through the process of differentiation, there is an incremental bandwidth in relational capacity between nodes. This is a process that moves in two opposite, yet complimentary directions. There is a deepening of each persons self-knowledge of who they are and what they offer most uniquely. This is a broadening movement accomplished via a thickening of a field of relations, whose interactions, create opportunities for mirroring of self-knowledge of each person in relation within a larger whole they participate in together. 
-
-C. 
-In the third segment of the of LifeWeb pathway
+[^1]: It is because we do onto the world as fragments, that we are automatically destructive
