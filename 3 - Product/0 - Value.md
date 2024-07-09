@@ -43,4 +43,4 @@ This is the potential opened up by the [[Framework Intro|12-step]] community org
 
 
 [^1]: Society in Innovation and Science through CO-DEsign – siscodeproject.eu, https://siscodeproject.eu/guidebook/
-[^2] 
+[^2]: Three Horizons Framework (3H), Bill Sharpe - https://www.h3uni.org/
