@@ -22,7 +22,7 @@ Specific to the Re:place Academy voyage, with its theme of `knowledge commoning 
 # Re:Place Product
 LifeWeb is a means for agents to participate in cultivating knowledge and learning through 12 orders of relating in an emerging autonomous ecosystem. What does that [[Framework Intro|mean]]?
 ### Personal Librarian
-A prototype was developed that demonstrated schema-based curation of a personal knowledge graph. The schema, which can be defined by users, defines how to organise knowledge 
+During the last phase of the voyage, a prototype was developed that demonstrated schema-based curation of a personal web of relational knowledge, presented as an interactive visualisation with the Obsidian UI. The schema(s), which can be defined by users, specifies how knowledge should be organised based on a given set of interests, giving users a way to not only navigate a complex knowledge space, but importantly a way to construct their perspective into that space. Unlike a google query
 ### Tending to Relations
 
 ### Digital Identity
