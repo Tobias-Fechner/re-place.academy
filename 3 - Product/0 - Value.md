@@ -34,9 +34,9 @@ LifeWeb is a means for agents to participate in cultivating knowledge and learni
 | **Upstream Curation of Knowledge** | Downstream consumption of indexed content | Upstream approach to curating and organizing knowledge                                                           |
 | **Holistic Construction**          | Based on keyword matches and algorithms   | Searching by pattern, integrating diverse sources, maintaining contextual information, and mapping relationships |
 ### Tending to Relations
-Although powerful in and of itself, the above outlined knowledge curation is greatly enlivened when expanding from the scope of an individual person, to the scope of a person contextualised within a community. In this way, a person [[0.5. Co-Here-ing Wholeness|inhabits]] a shared space - a knowledge commons - as part of a community collectively creating meaning-making. Their microcosm of meaning becomes part of a plurality of intentions, governed by their tending to their interrelations.
+Although powerful in and of itself, the above outlined knowledge curation is greatly enlivened when expanding from the scope of an individual person, to the scope of a person contextualised within a community. In this way, a person [[0.5. Co-Here-ing Wholeness|inhabits]] a shared space - a knowledge commons - as part of a community collectively creating meaning-making. Their microcosm of meaning becomes part of a plurality of intentions within a community, governed by the tending to their interrelations.
 
-This is the premise of the underlying 
+This is the potential opened up by the [[Framework Intro|12-step]] community organising framework, which highlights the yin-yang complementarity between the internet content from prevailing paradigms and the [[8.5. Generating Aliveness|re-patterning]] required by regenerative development pathways. 
 ### Digital Identity
 
 # Re:Place + Voyaging
