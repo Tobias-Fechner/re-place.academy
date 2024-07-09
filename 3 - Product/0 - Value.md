@@ -26,7 +26,7 @@ LifeWeb is a means for agents to participate in cultivating knowledge and learni
 
 **Application to the internet:** In subsequent development, this same schema-based search is being extended to a web-crawler, akin to the [Arc](https://arc.net/) search engine, giving users the means to access the internet's resources to curate their knowledge spaces.
 
-**Richness of relations:** Although 
+**Richness of relations:** Although the standard interface is currently limited to one-dimensional edges that doesn't 
 
 | Paradigm Difference                | Traditional Search                        | Schema-Based Search                                                                                              |
 | ---------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
