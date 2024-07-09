@@ -20,9 +20,13 @@ Specific to the Re:place Academy voyage, with its theme of `knowledge commoning 
 4. [[Wada]], also a key stakeholder, engaged the voyage with the possibility to carry forward the learnings and capabilities grown to their network of tech-focussed community learning centres across 11 countries of sub-Saharan Africa.
 # Re:Place Product
 LifeWeb is a means for agents to participate in cultivating knowledge and learning through 12 orders of relating in an emerging autonomous ecosystem. What does that [[Framework Intro|mean]]?
-### Inhabiting and Curating
-- Digital identity
-- Personal librarian
-- 
+### Digital Identity
+
+### Personal Librarian
+
+### Tending to Relations
+
+# Re:Place + Voyaging
+
 
 [^1]: Society in Innovation and Science through CO-DEsign – siscodeproject.eu, https://siscodeproject.eu/guidebook/
