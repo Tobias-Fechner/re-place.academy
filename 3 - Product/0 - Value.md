@@ -18,7 +18,7 @@ Specific to the Re:place Academy voyage, with its theme of `knowledge commoning 
 2. [[Holochain]] was engaged to explore bringing peer-to-peer value flows on-chain, such as expressions of thanks with the appreciation bot.
 3. [[Regenesis Institute]] influenced the approach to the event design considerably, leveraging the frameworks that make up their organisational change technology.
 4. [[Wada]] engaged the voyage with the possibility to carry forward the learnings and capabilities grown to their network of tech-focussed community learning centres across 11 countries of sub-Saharan Africa.
-5. [[GwyrddNi]] were instrumental in grounding the design thinking work explored during the voyage in real needs of local community work. 
+5. [[GwyrddNi]], [[Tydden Teg]] and [[Cae Mabon]] were instrumental in grounding the design thinking explored during the voyage in real needs of local community work among the Gwynedd region, and the Peris valley in particular. 
 # Re:Place Product
 LifeWeb is a means for agents to participate in cultivating knowledge and learning through 12 orders of relating in an emerging autonomous ecosystem. What does that [[Framework Intro|mean]]?
 ### Digital Identity
