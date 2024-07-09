@@ -28,13 +28,13 @@ LifeWeb is a means for agents to participate in cultivating knowledge and learni
 
 **Richness of relations:** Although the standard interface is currently limited to one-dimensional edges between nodes, showing just a link, a top priority for future developments would be to incorporate additional dimensions of relation between nodes, in alignment with the underlying organising [[Framework Intro|framework]].
 
-| Paradigm Difference                | Traditional Search                        | Schema-Based Search                                                                                       |
-| ---------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Search mechanism**               | Predefined algorithms and categories      | User-defined schemas and perspectives                                                                     |
-| **Upstream Curation of Knowledge** | Downstream consumption of indexed content | Upstream approach to curating and organizing knowledge                                                    |
-| **Holistic Construction**          | Based on keyword matches and algorithms   | Searching by , integrating diverse sources, maintaining contextual information, and mapping relationships |
+| Paradigm Difference                | Traditional Search                        | Schema-Based Search                                                                                              |
+| ---------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Search mechanism**               | Predefined algorithms and categories      | User-defined schemas and perspectives                                                                            |
+| **Upstream Curation of Knowledge** | Downstream consumption of indexed content | Upstream approach to curating and organizing knowledge                                                           |
+| **Holistic Construction**          | Based on keyword matches and algorithms   | Searching by pattern, integrating diverse sources, maintaining contextual information, and mapping relationships |
 ### Tending to Relations
-
+Although powerful in and of itself, the above outlined knowledge curation is greatly enlivened when shifting from the scope of an individual person, to the scope of being contextualised among a community. In this way, when a person [[0.5. Co-Here-ing Wholeness|inhabits]] a shared knowledge space, 
 ### Digital Identity
 
 # Re:Place + Voyaging

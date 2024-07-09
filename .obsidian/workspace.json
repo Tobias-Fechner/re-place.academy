@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "co-here",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f76589d87df52a",
+  "active": "f55645c25d18edf6",
   "lastOpenFiles": [
     "3 - Product/Stakeholders/Partners/Holochain.md",
     "3 - Product/Stakeholders/Partners/Tydden Teg.md",
