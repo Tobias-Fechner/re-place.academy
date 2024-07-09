@@ -16,7 +16,7 @@ In the weeks leading up to the voyage, the following instruments were set up to 
 
 Specific to the Re:place Academy voyage, with its theme of `knowledge commoning and peer-to-peer learning`, the following partnerships were formed:
 1. [[Hypha]] was engaged as a means for the cohort to be able to form as a an organisational entity (a DAO) to continue the decentralised decision-making practiced throughout the co-living period, initiated with a dynamic equity share made possible by the energy accounting practice.
-2. [[Holochain]] was engaged to explore peer-to-peer value flows, such as expressions of thanks with the appreciation bot.
+2. [[Holochain]] was engaged to explore bringing peer-to-peer value flows on-chain, such as expressions of thanks with the appreciation bot.
 3. [[Regenesis Institute]], a key stakeholder, influenced the approach to the event design considerably, leveraging the frameworks that make up their organisational change technology.
 4. [[Wada]], also a key stakeholder, engaged the voyage with the possibility to carry forward the learnings and capabilities grown to their network of tech-focussed community learning centres across 11 countries of sub-Saharan Africa.
 # Re:Place Product
