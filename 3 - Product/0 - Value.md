@@ -21,11 +21,11 @@ Specific to the Re:place Academy voyage, with its theme of `knowledge commoning 
 5. [[GwyrddNi]], [[Tydden Teg]] and [[Cae Mabon]] were instrumental in grounding the design thinking explored during the voyage in real needs of local community work among the Gwynedd region, and the Peris valley in particular. 
 # Re:Place Product
 LifeWeb is a means for agents to participate in cultivating knowledge and learning through 12 orders of relating in an emerging autonomous ecosystem. What does that [[Framework Intro|mean]]?
-### Digital Identity
-
 ### Personal Librarian
-
+A prototype was developed that demonstrated schema-based curation of a personal knowledge graph. The schema, which can be defined by users, defines how to organise knowledge 
 ### Tending to Relations
+
+### Digital Identity
 
 # Re:Place + Voyaging
 
