@@ -9,7 +9,7 @@ For a given voyage, a multi-disciplinary cohort is woven together, with resonant
 In the weeks leading up to the voyage, the following instruments were set up to support radical participation in the process:
 1. Voice-based energy accounting (implemented) - for voyagers to be able to account for their time and energy invested into the collaboration
 2. Appreciation bot (implemented) - one example of how a simple chat-integration can be used to make visible different flows that occur in the formation of a relational field
-3. Voice-based learning modules (proof of concept) - a means to create and share how a given system can be seen, understood and cared for toward higher orders of its actualisation
+3. Voice-based learning modules (demo) - a means to create and share how a given system can be seen, understood and cared for toward higher orders of its actualisation
 4. Sociocracy (implemented) - decentralised, consent-based decision-making, actively practiced at least twice daily in morning and evening circles
 5. Calendar event scheduling and integrated communications (implemented) - for dynamic conferencing, with the possibility to involve remote participants as a means for them to be able to share in the co-learning process.
 
