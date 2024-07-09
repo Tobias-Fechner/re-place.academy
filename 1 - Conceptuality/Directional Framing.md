@@ -6,5 +6,3 @@ This work shows up as networks of solidarity, community-led climate-action progr
 Vital to any thriving community is the webbing and weaving of inter-relationship. This relational fabric becomes the bedrock upon which all else can be built. Tending to this fabric is particularly challenging from within cultures of hyper-individualism. This framing influences social infrastructures, including digital, with feedback loops touching systems of knowledge, learning, decision-making and more.
 
 We propose a participatory sense-making system that supports the ability for communities to organise themselves for bioregional transformation, starting with the individual tending to their relations, moving through a progression of 12 orders of relationality up to a whole, vitalised and adaptive ecosystem. 
-# Proposal 
-...
