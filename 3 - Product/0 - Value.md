@@ -26,13 +26,13 @@ LifeWeb is a means for agents to participate in cultivating knowledge and learni
 
 **Application to the internet:** In subsequent development, this same schema-based search is being extended to a web-crawler, akin to the [Arc](https://arc.net/) search engine, giving users the means to access the internet's resources to curate their knowledge spaces.
 
-**Richness of relations:** Although the standard interface is currently limited to one-dimensional edges between nodes, a top priority of future developments would be to incorporate additional dimensions to the relations between nodes
+**Richness of relations:** Although the standard interface is currently limited to one-dimensional edges between nodes, showing just a link, a top priority for future developments would be to incorporate additional dimensions of relation between nodes, in alignment with the underlying organising [[Framework Intro|framework]].
 
-| Paradigm Difference                | Traditional Search                        | Schema-Based Search                                                                                              |
-| ---------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Search mechanism**               | Predefined algorithms and categories      | User-defined schemas and perspectives                                                                            |
-| **Upstream Curation of Knowledge** | Downstream consumption of indexed content | Upstream approach to curating and organizing knowledge                                                           |
-| **Holistic Construction**          | Based on keyword matches and algorithms   | Pattern-based search, integrating diverse sources, maintaining contextual information, and mapping relationships |
+| Paradigm Difference                | Traditional Search                        | Schema-Based Search                                                                                       |
+| ---------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Search mechanism**               | Predefined algorithms and categories      | User-defined schemas and perspectives                                                                     |
+| **Upstream Curation of Knowledge** | Downstream consumption of indexed content | Upstream approach to curating and organizing knowledge                                                    |
+| **Holistic Construction**          | Based on keyword matches and algorithms   | Searching by , integrating diverse sources, maintaining contextual information, and mapping relationships |
 ### Tending to Relations
 
 ### Digital Identity
