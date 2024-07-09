@@ -21,4 +21,8 @@ Specific to the Re:place Academy voyage, with its theme of `knowledge commoning 
 # Re:Place Product
 LifeWeb is a means for agents to participate in cultivating knowledge and learning through 12 orders of relating in an emerging autonomous ecosystem. 
 
+What does that [[Framework Intro|mean]]?
+
+
+
 [^1]: Society in Innovation and Science through CO-DEsign – siscodeproject.eu, https://siscodeproject.eu/guidebook/
