@@ -38,9 +38,9 @@ Although powerful in and of itself, the above outlined knowledge curation is gre
 
 This is the potential opened up by the [[Framework Intro|12-step]] community organising framework, and the two together highlights the yin-yang complementarity between the internet content from prevailing paradigms and the [[8.5. Generating Aliveness|re-patterning]] required by regenerative development pathways. Navigating this middle ground is precisely the interplay between what is and what could be, outlined in the three horizons framework [^2] for systems change. 
 
-This tooling is suitable to the context of community learning hubs, which play a central role in connecting people in a local area and stewarding the energy around a given event/ movement. In such a project, many people pass through these hubs and their relations can often remain implicit. A framework guiding the development of these relations through higher orders of organising is crucial for network hub systems to actualise their potential as a community catalyst. The stakeholder groups outlined in [[1 - Use Cases]] give some examples of the different manifestations of same underlying community network hub pattern.
+This tooling is suitable to the context of community learning hubs, which play a central role in connecting people in a local area and stewarding the energy around a given event/ movement. In such a project, many people pass through these hubs and their relations can often remain implicit. A framework guiding the development of these relations through higher orders of organising is crucial for network hub systems to actualise their potential as community catalysts. The stakeholder groups outlined in [[1 - Use Cases]] give some examples of the different manifestations of the same underlying community network hub pattern.
 ### Digital Identity
-
+The accounting of a person inhabiting such a space was deduced as a strong place to start developing this infrastructure since this component will likely be consistently required going forwards. As such the development of a LifeWeb digital identity is one of the next steps on teh
 # Re:Place + Voyaging
 
 
