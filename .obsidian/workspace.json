@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/0 - Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/0 - Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md",
+                "file": "3 - Product/0 - Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Product/2 - Differentiation.md"
+                "file": "3 - Product/0 - Value.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "d4f76589d87df52a",
   "lastOpenFiles": [
+    "3 - Product/2 - Differentiation.md",
     "3 - Product/0 - Value.md",
     "3 - Product/1 - Use Cases.md",
     "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones/Resilience Action Zones.md",
@@ -168,7 +169,6 @@
     "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
     "3 - Product/3 - Go To Market.md",
     "3 - Product/Stakeholders/Partners/Astralship.md",
-    "3 - Product/2 - Differentiation.md",
     "3 - Product/Ecosystem Orientation/Software/Local-first.md",
     "3 - Product/Stakeholders/Partners/Regenesis Institute.md",
     "3 - Product/Stakeholders/Partners/Wada.md",
