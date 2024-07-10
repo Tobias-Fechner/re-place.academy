@@ -38,7 +38,7 @@ Although powerful in and of itself, the above outlined knowledge curation is gre
 
 This is the potential opened up by the [[Framework Intro|12-step]] community organising framework, and the two together highlights the yin-yang complementarity between the internet content from prevailing paradigms and the [[8.5. Generating Aliveness|re-patterning]] required by regenerative development pathways. Navigating this middle ground is precisely the interplay between what is and what could be, outlined in the three horizons framework [^2] for systems change. 
 
-This tooling is suitable to the context of community learning hubs, which play a central role in connecting people in a local area. In such a project, many people often pass through these hubs of the relations can often remain implicit. A framework guiding the development of these relations and more through higher orders of organising is crucial for such network hub systems to actualise their potential as community catalysts. The stakeholder groups outlined in [[1 - Use Cases]] give some exmaples of the different materialisations of same underlying community network hub pattern.
+This tooling is suitable to the context of community learning hubs, which play a central role in connecting people in a local area. In such a project, many people often pass through these hubs of the relations can often remain implicit. A framework guiding the development of these relations and more through higher orders of organising is crucial for such network hub systems to actualise their potential as community catalysts. The stakeholder groups outlined in [[1 - Use Cases]] give some examples of the different manifestations of same underlying community network hub pattern.
 ### Digital Identity
 
 # Re:Place + Voyaging
