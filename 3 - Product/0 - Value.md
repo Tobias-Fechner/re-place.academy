@@ -37,6 +37,8 @@ LifeWeb is a means for agents to participate in cultivating knowledge and learni
 Although powerful in and of itself, the above outlined knowledge curation is greatly enlivened when expanding from the scope of an individual person, to the scope of a person contextualised within a community. In this way, a person [[0.5. Co-Here-ing Wholeness|inhabits]] a shared space - a knowledge commons - as part of a community collectively creating meaning-making. The individual's microcosm of meaning becomes part of a plurality of intentions within a community, governed by the tending to their interrelations.
 
 This is the potential opened up by the [[Framework Intro|12-step]] community organising framework, and the two together highlights the yin-yang complementarity between the internet content from prevailing paradigms and the [[8.5. Generating Aliveness|re-patterning]] required by regenerative development pathways. Navigating this middle ground is precisely the interplay between what is and what could be, outlined in the three horizons framework [^2] for systems change. 
+
+
 ### Digital Identity
 
 # Re:Place + Voyaging
