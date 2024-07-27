@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85014e6538189fab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f55645c25d18edf6",
+  "active": "85014e6538189fab",
   "lastOpenFiles": [
     "PTE English Language Test Software Development Brief.pdf",
     "3 - Product/0 - Value.md",
