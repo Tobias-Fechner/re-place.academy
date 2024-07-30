@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Voyaging/Day 16 - Sat 22/Alignment Conversations.md",
+                "file": "0 - Voyaging/Day 17 - Sun 23/Closing Dinner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a8b4b6dcea9ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Voyaging/Day 16 - Sat 22/Alignment Conversations.md",
+                "file": "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Voyaging/Day 16 - Sat 22/Alignment Conversations.md",
+                "file": "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Voyaging/Day 16 - Sat 22/Alignment Conversations.md"
+                "file": "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md"
               }
             }
           }
@@ -160,8 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85014e6538189fab",
+  "active": "f0a8b4b6dcea9ce0",
   "lastOpenFiles": [
+    "0 - Voyaging/Day 17 - Sun 23/Closing Dinner.md",
+    "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md",
+    "0 - Voyaging/Day 16 - Sat 22/Alignment Conversations.md",
     "0 - Voyaging/Day 14 - Thur 20/Lowri Visit.md",
     "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md",
     "0 - Voyaging/Day 9 - Sat 15/Embodiment Intensive.md",
@@ -197,9 +212,6 @@
     "3 - Product/Stakeholders/Partners/Holochain.md",
     "3 - Product/Stakeholders/Partners/Tydden Teg.md",
     "3 - Product/Stakeholders/Partners/Cae Mabon.md",
-    "3 - Product/Stakeholders/Partners/GwyrddNi.md",
-    "1 - Conceptuality/Developmental Pathway/8.5. Will (3rd line).md",
-    "1 - Conceptuality/Developmental Pathway/0. Function (1st Line).md",
     "3 - Product/Ecosystem Orientation",
     "X - Templates",
     "3 - Product/Ecosystem Orientation/Programs",
