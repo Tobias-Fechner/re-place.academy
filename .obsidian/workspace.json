@@ -23,9 +23,11 @@
             "id": "85014e6538189fab",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "0 - Voyaging/Day 2 - Sat 8/Draig Beats.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "0 - Voyaging/Day 2 - Sat 8/Draig Beats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md",
+                "file": "0 - Voyaging/Day 2 - Sat 8/Draig Beats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Conceptuality/Framework Intro.md"
+                "file": "0 - Voyaging/Day 2 - Sat 8/Draig Beats.md"
               }
             }
           }
@@ -160,6 +162,18 @@
   },
   "active": "85014e6538189fab",
   "lastOpenFiles": [
+    "0 - Voyaging/Day 1 - Fri 7/Pirating Paul Evening.md",
+    "Assets/re_place/DSC01003.jpg",
+    "Assets/re_place/DSC00934.jpg",
+    "Assets/re_place/DSC00875.jpg",
+    "Assets/re_place/DSC00863.jpg",
+    "Assets/re_place/DSC00593.jpg",
+    "Assets/re_place/DSC00556.jpg",
+    "Assets/re_place/DSC02070.jpg",
+    "Assets/re_place/DSC01211.jpg",
+    "Assets/re_place/DSC02174.jpg",
+    "Assets/re_place/DSC01233.jpg",
+    "Assets/re_place",
     "PTE English Language Test Software Development Brief.pdf",
     "3 - Product/0 - Value.md",
     "1 - Conceptuality/Developmental Pathway/6. Repetition.md",
@@ -185,7 +199,6 @@
     "1 - Conceptuality/Developmental Pathway/4.5. Being (2nd Line).md",
     "1 - Conceptuality/Developmental Pathway/0. Intro.md",
     "3 - Product/3 - Go To Market.md",
-    "3 - Product/Stakeholders/Partners/Astralship.md",
     "3 - Product/Ecosystem Orientation",
     "X - Templates",
     "3 - Product/Ecosystem Orientation/Programs",
@@ -193,18 +206,6 @@
     "3 - Product/Stakeholders/Partners",
     "3 - Product/Stakeholders/Early-adopters",
     "3 - Product/Stakeholders/Early-adopters/Ecovillages",
-    "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones",
-    "3 - Product/Stakeholders/Hackerspaces",
-    "3 - Product/Stakeholders/Early-adopters/Living Labs",
-    "Assets/framework-overview.png",
-    "Assets/framework-overview.svg",
-    "Assets/structure.png",
-    "Assets/repetition.png",
-    "Assets/potentiality.png",
-    "Assets/subsistence.png",
-    "Assets/relatedness.png",
-    "Assets/realtedness.png",
-    "Assets/polarity.png",
-    "Assets/wholeness.svg"
+    "3 - Product/Stakeholders/Early-adopters/Resilience Action Zones"
   ]
 }
