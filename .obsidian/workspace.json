@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md",
+                "file": "3 - Product/0 - Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md",
+                "file": "3 - Product/0 - Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md",
+                "file": "3 - Product/0 - Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md"
+                "file": "3 - Product/0 - Value.md"
               }
             }
           }
@@ -174,6 +174,11 @@
   },
   "active": "f0a8b4b6dcea9ce0",
   "lastOpenFiles": [
+    "5 - Next steps/0 - Second Replace Academy Voyage.md",
+    "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md",
+    "0 - Voyaging/Day 14 - Thur 20/Lowri Visit.md",
+    "0 - Voyaging/Day 13 - Wed 19/Sam & Harry Arrive.md",
+    "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md",
     "0 - Voyaging/Day 9 - Sat 15/Embodiment Intensive.md",
     "0 - Voyaging/Day 6 - Wed 12/Meeting with Max wk. 1.md",
     "0 - Voyaging/Day 6 - Wed 12/The Better Day.md",
@@ -187,11 +192,8 @@
     "0 - Voyaging/Day 2 - Sat 8/Draig Beats.md",
     "0 - Voyaging/Day 1 - Fri 7/Pirating Paul Evening.md",
     "0 - Voyaging/Day 1 - Fri 7/Evening Circle.md",
-    "0 - Voyaging/Day 17 - Sun 23/Closing Interviews.md",
     "0 - Voyaging/Day 17 - Sun 23/Closing Dinner.md",
     "0 - Voyaging/Day 16 - Sat 22/Alignment Conversations.md",
-    "0 - Voyaging/Day 14 - Thur 20/Lowri Visit.md",
-    "0 - Voyaging/Day 10 - Sun 16/Bioregional Celebration.md",
     "Assets/re_place/DSC01003.jpg",
     "Assets/re_place/DSC00934.jpg",
     "Assets/re_place/DSC00875.jpg",
@@ -210,8 +212,6 @@
     "1 - Conceptuality/Developmental Pathway/4.5. Activating Being.md",
     "1 - Conceptuality/Developmental Pathway/4. Subsistence.md",
     "1 - Conceptuality/Developmental Pathway/3. Relatedness.md",
-    "1 - Conceptuality/Developmental Pathway/2. Polarity.md",
-    "1 - Conceptuality/Developmental Pathway/1. Wholeness.md",
     "3 - Product/Ecosystem Orientation",
     "X - Templates",
     "3 - Product/Ecosystem Orientation/Programs",
