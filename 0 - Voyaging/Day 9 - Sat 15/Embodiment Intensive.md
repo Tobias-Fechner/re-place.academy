@@ -1,1 +1,7 @@
-Hiking, Caernarfon, fragmentation
+![[DSC01347.jpg]]
+![[DSC01356.jpg]]
+![[DSC01367.jpg]]
+![[DSC01369.jpg]]
+![[DSC01400.jpg]]
+![[DSC01414.jpg]]
+![[DSC01422.jpg]]![[DSC01430.jpg]]
